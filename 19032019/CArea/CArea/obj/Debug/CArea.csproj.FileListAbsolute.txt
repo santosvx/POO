@@ -1,0 +1,2 @@
+C:\Users\Anima\Desktop\POO\19032019\CArea\CArea\obj\Debug\CArea.csprojAssemblyReference.cache
+C:\Users\Anima\Desktop\POO\19032019\CArea\CArea\obj\Debug\CArea.csproj.CoreCompileInputs.cache
